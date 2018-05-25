@@ -1,0 +1,9 @@
+Origin: Hipeopeo's Repo
+Label: Hipeopeo's Repo
+Suite: Beta
+Version: 0.0.1
+Codename: hiporepo
+Architectures: iphoneos-arm
+Components: main
+Description: Hipeopeo's Repo
+MD5Sum: 
