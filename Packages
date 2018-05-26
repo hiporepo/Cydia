@@ -1,1 +1,15 @@
-
+Package: tk.hipeopeo.kinepro
+ Version: 1.0.0
+ Architecture: iphoneos-arm
+ Maintainer: Hipeopeo <friccinghecc@protonmail.com>
+ Depends: (bundleids)
+ Filename: debs//kinemaster.deb
+ Size: 7000
+ MD5sum: (md5 hash of deb)
+ SHA1: (sha1 hash of deb)
+ SHA256: (sha256 of deb>
+ Section: Cracks / Breaks
+ Description: Kinemaster Pro with everything unlocked
+ Author: Someone on the internet
+ Depiction: http://hiporepo.github.io/Cydia/depic/kinemaster/index.html
+ Name: Kinemaster Pro Crack
